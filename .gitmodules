@@ -1,0 +1,6 @@
+[submodule "Documents/iosWorkSpace/evernote-cloud-sdk-ios"]
+	path = Documents/iosWorkSpace/evernote-cloud-sdk-ios
+	url = https://github.com/evernote/evernote-cloud-sdk-ios.git
+[submodule "Documents/iosWorkSpace/evernote-cloud-sdk"]
+	path = Documents/iosWorkSpace/evernote-cloud-sdk
+	url = https://github.com/evernote/evernote-cloud-sdk-ios.git
